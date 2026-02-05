@@ -19,10 +19,8 @@ I’m an **aspiring IT professional** building hands-on skills in **technical su
 ##  Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
-         alt="LinkedIn"
-         width="30" />
+  <a href="https://www.linkedin.com/in/benjamin-livingston-358a5498/" target="_blank">
+    <img src="https://shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=White" />
   </a>
 </p>
 
