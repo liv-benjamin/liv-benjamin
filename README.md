@@ -28,7 +28,6 @@ I’m an **aspiring IT professional** building hands-on skills in **technical su
 
 ##  Certifications
 
-###  Earned
 <p align="left">
   <a href="https://www.comptia.org/en-us/certifications/a/" target="_blank">
     <img src="https://img.shields.io/badge/CompTIA-A%2B-EA1D25?style=for-the-badge&logo=comptia&logoColor=white" />
@@ -40,8 +39,6 @@ I’m an **aspiring IT professional** building hands-on skills in **technical su
     <img src="https://img.shields.io/badge/Google-Data%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
   </a>
 </p>  
-
-*(More certifications will be added as I progress.)*
 
 ---
 
